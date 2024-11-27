@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jack Kelly
+## 👋 Hi there, I'm Jack Kelly
 
 Since about 2008 I've been trying to help reduce CO₂ emissions enough that the climate _actually notices_. This turns out to be surprisingly tricky!
 
@@ -8,4 +8,5 @@ The "dream" is that anyone with a laptop, an Internet connection, and a little k
 
 I'm co-founder of [Open Climate Fix](https://github.com/openclimatefix/) (a non-profit).
 
-- 📫 How to reach me: From about 2008 to 2023 to I was quite [active on Twitter](https://x.com/jack_kelly). Then I dabbled [in Mastodon](https://mastodon.energy/@jack_kelly). From late-2024 onwards, my main focus is [Bluesky](https://bsky.app/profile/jack-kelly.com); I'm no longer active on Twitter/X or Mastodon.
+## 📫 How to reach me
+From about 2008 to 2023 to I was quite [active on Twitter](https://x.com/jack_kelly). Then I dabbled [in Mastodon](https://mastodon.energy/@jack_kelly). From late-2024 onwards, my main focus is [Bluesky](https://bsky.app/profile/jack-kelly.com); I'm no longer active on Twitter/X or Mastodon.
