@@ -7,7 +7,7 @@ My main interest at the moment is to enable anyone with a laptop, an Internet co
 This should have a number of use-cases and benefits:
 - Academics and students can easily experiment with energy forecasting (using realistic datasets).
 - Companies can build state-of-the-art energy forecasts in-house (e.g. grid operators, battery optimisers, etc.).
-- We can _finally_ build a public leaderboard of different energy forecasting algorithms, measured against a standard validation dataset (again, using the types of huge datasets that are used in industry, rather than toy academic datasets).
+- We can _finally_ build a public leaderboard of different energy forecasting algorithms, measured against a standard validation dataset (again, using the types of huge datasets that are used in industry, rather than toy academic datasets). Anyone could contribute algorithms to the leaderboard.
 - Maybe we could run a simple and cheap energy forecasting service with state-of-the-art performance.
 
 My current project in this vain is [`hypergrib`](https://github.com/JackKelly/hypergrib).
