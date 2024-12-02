@@ -6,6 +6,7 @@ My main interest at the moment is to enable anyone with a laptop, an Internet co
 
 This should have a number of use-cases and benefits:
 - Academics and students can easily experiment with energy forecasting (using realistic datasets).
+- Companies can build state-of-the-art energy forecasts in-house (e.g. grid operators, battery optimisers, etc.).
 - We can _finally_ build a public leaderboard of different energy forecasting algorithms, measured against a standard validation dataset (again, using the types of huge datasets that are used in industry, rather than toy academic datasets).
 - Maybe we could run a simple and cheap energy forecasting service with state-of-the-art performance.
 
@@ -15,3 +16,13 @@ Once `hypergrib` is up-and-running, I'm planning to return to researching ML alg
 
 ## 📫 How to reach me
 Please say "hi" on [Bluesky](https://bsky.app/profile/jack-kelly.com). I'm no longer active on [Twitter/X](https://x.com/jack_kelly) or [Mastodon](https://mastodon.energy/@jack_kelly).
+
+## Related projects
+
+I can't take any credit for these projects but these projects all help towards the aim of making it super-easy for folks to run energy forecasts:
+
+(alphabetical order)
+
+- [dynamical.org](https://dynamical.org)
+- [Pangeo](https://www.pangeo.io)
+- [Weave](https://weave.energy)
